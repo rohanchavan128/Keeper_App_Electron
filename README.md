@@ -16,7 +16,28 @@ You will also see any lint errors in the console.
 ### `Step 2: npm run electron`
 Launches the App in Electron window with hot reloading.
 
-## Steps to Follow
+## Packaging Steps
+
+The App can be packaged in two ways using either electron-builder or electron-packager. 
+
+In the project directory, you can run:
+
+## Steps to Follow for "electron-builder"
+
+### `Step : npm run electron-build`
+
+## Steps to Follow for "electron-packager"
+
+For Mac:
+### `Step : npm run package-mac`
+
+For Win:
+### `Step : npm run package-win`
+
+For Linux:
+### `Step : npm run package-linux`
+
+
 
 
 
